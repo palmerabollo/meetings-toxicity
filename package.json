@@ -1,0 +1,26 @@
+{
+  "name": "scoring-app",
+  "version": "1.0.0",
+  "description": "Meetings Are Toxic - Scoring",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "meetings",
+    "scoring",
+    "email"
+  ],
+  "author": "Guido García <guido.garcia.bernardo@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.12.3",
+    "icalendar": "^0.7.1",
+    "lodash": "^3.7.0",
+    "logops": "^0.2.0",
+    "mail-notifier": "^0.2.4",
+    "nedb": "^1.1.2",
+    "nodemailer": "^1.3.4",
+    "swig": "^1.4.2"
+  }
+}
