@@ -1,0 +1,8 @@
+{
+  "name": "meetings-are-toxic-scoring-bower",
+  "private": true,
+  "dependencies": {
+    "bootstrap-material-design": "~0.3.0",
+    "jquery": "~2.1.3"
+  }
+}

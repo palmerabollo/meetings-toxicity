@@ -1,4 +1,4 @@
-<h1>Meeting Toxicity: {{ score.toxicity }}</h1>
+<h1>Meeting Toxicity Level: {{ score.toxicity }}</h1>
 
 <h2>
 Expert advice:
@@ -21,12 +21,11 @@ Expert advice:
 {% endfor %}
 </ul>
 
-<a href="http://localhost:3210/score/{{ mail.messageId }}">Details</a>
+<a href="http://localhost:3210/report/{{ mail.messageId }}">Detailed report</a>
 
 <hr>
 
 <footer>
-	Forward your meetings to meetingsaretoxic@gmail.com !<br>
+	Forward your meeting requests to meetingsaretoxic@gmail.com !<br>
 	Every minute you avoid spending in a meeting is a minute you can get real work done instead.<br>
-	<a href="http://meetingsaretoxic.com">Meetings Are Toxic</a>
 </footer>
