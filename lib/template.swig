@@ -21,7 +21,7 @@ Expert advice:
 {% endfor %}
 </ul>
 
-<a href="http://localhost:3210/report/{{ mail.messageId }}">Detailed report</a>
+<a href="http://meetingsaretoxic.com/report/{{ mail.messageId }}">Detailed report</a>
 
 <hr>
 
