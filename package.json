@@ -11,16 +11,15 @@
     "scoring",
     "email"
   ],
-  "author": "Guido García <guido.garcia.bernardo@gmail.com>",
+  "author": "Guido García <https://twitter.com/palmerabollo>",
   "license": "MIT",
   "dependencies": {
     "express": "^4.12.3",
     "icalendar": "^0.7.1",
     "less-middleware": "^2.0.1",
-    "lodash": "^3.7.0",
+    "lodash": "^4.17.2",
     "logops": "^1.0.7",
     "mail-notifier": "^0.3.0",
-    "mongodb": "^2.0.28",
     "nedb": "^1.1.2",
     "nodemailer": "^2.6.4",
     "serve-favicon": "^2.2.0",
