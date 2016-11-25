@@ -3,3 +3,4 @@ node_modules
 *.db
 public/bower_components
 public/stylesheets/*.css
+scoring.db
