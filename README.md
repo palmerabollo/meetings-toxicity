@@ -8,8 +8,8 @@ Prerequisites: git client, nodejs 0.10+, bower.
 $ git clone
 $ bower install
 $ npm install
-$ export USER=<your_gmail_imap_username>
-$ export PASS=<your_gmail_password>
+$ export IMAP_USER=<your_imap_username>
+$ export IMAP_PASS=<your_password>
 $ npm start
 ```
 
